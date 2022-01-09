@@ -1,4 +1,4 @@
-# Login-page
+# Login-page-fb
 This is a responsive login page with social media buttons like "FaceBook", "Google". 
 
 Attached the Index, Style and Script files where the three are connected in code. 
